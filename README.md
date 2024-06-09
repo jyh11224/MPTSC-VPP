@@ -13,7 +13,6 @@
 - matplotlib
 
 
-
 # Getting started
 
  
