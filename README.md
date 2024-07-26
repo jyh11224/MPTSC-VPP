@@ -29,4 +29,4 @@ MPTSC-VPP is a general-purpose speech recognition model. It is trained on a larg
 
 ## License
 
-MPTSC-VPP's code is released under the MIT License. See [LICENSE](https://github.com/openai/whisper/blob/main/LICENSE) for further details.
+MPTSC-VPP's code is released under the MIT License. See [LICENSE]([https://github.com/openai/whisper/blob/main/LICENSE](https://github.com/jyh11224/MPTSC-VPP/blob/main/LICENSE)) for further details.
