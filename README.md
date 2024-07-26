@@ -1,6 +1,6 @@
 # MPTSC-VPP
 
-[[Paper]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11758932)
+[[Paper]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003075946)
 [[Colab example]](https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/)
 
 MPTSC-VPP is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
