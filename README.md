@@ -3,7 +3,7 @@
 [[Paper]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003075946)
 [[Colab example]](https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/)
 
-We propose MPTSC-VPP to effectively aggregate virtual power plant. It is trained on MOTIE's dataset and predict virtual plants' reward
+We propose MPTSC-VPP to effectively aggregate virtual power plant. It is trained on MOTIE's dataset and predicts virtual plant's reward
 
 
 ## Approach
