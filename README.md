@@ -1,6 +1,5 @@
 # MPTSC-VPP
 
-
 [[Paper]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003075946)
 [[Colab example]](https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/)
 
