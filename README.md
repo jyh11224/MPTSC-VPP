@@ -14,7 +14,6 @@ We propose MPTSC-VPP to effectively aggregate virtual power plant. It is trained
 
 
 
-
 ## Requirements
 - python
 - sklearn
